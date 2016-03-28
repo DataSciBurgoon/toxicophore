@@ -22,4 +22,5 @@ If you'd like more information, please contact me: lyle.d.burgoon@usace.army.mil
 
 #Notes:
 This information is in the public domain.
+The "raw" ground-truth data is in the file: fhm_chems.sml and is read into R on line 55.
 
